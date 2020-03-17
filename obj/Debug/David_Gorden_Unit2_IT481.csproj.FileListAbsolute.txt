@@ -1,0 +1,9 @@
+C:\Users\davgo\source\repos\David_Gorden_Unit2_IT481\bin\Debug\David_Gorden_Unit2_IT481.exe.config
+C:\Users\davgo\source\repos\David_Gorden_Unit2_IT481\bin\Debug\David_Gorden_Unit2_IT481.exe
+C:\Users\davgo\source\repos\David_Gorden_Unit2_IT481\bin\Debug\David_Gorden_Unit2_IT481.pdb
+C:\Users\davgo\source\repos\David_Gorden_Unit2_IT481\obj\Debug\David_Gorden_Unit2_IT481.csprojAssemblyReference.cache
+C:\Users\davgo\source\repos\David_Gorden_Unit2_IT481\obj\Debug\David_Gorden_Unit2_IT481.Form1.resources
+C:\Users\davgo\source\repos\David_Gorden_Unit2_IT481\obj\Debug\David_Gorden_Unit2_IT481.Properties.Resources.resources
+C:\Users\davgo\source\repos\David_Gorden_Unit2_IT481\obj\Debug\David_Gorden_Unit2_IT481.csproj.GenerateResource.cache
+C:\Users\davgo\source\repos\David_Gorden_Unit2_IT481\obj\Debug\David_Gorden_Unit2_IT481.exe
+C:\Users\davgo\source\repos\David_Gorden_Unit2_IT481\obj\Debug\David_Gorden_Unit2_IT481.pdb
