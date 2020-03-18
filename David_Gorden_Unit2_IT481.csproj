@@ -52,6 +52,11 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="NorthwindDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NorthwindDataSet.xsd</DependentUpon>
+    </Compile>
     <Compile Include="NorthwindStoredProcs.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -71,6 +76,17 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include="NorthwindDataSet.xsc">
+      <DependentUpon>NorthwindDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="NorthwindDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>NorthwindDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="NorthwindDataSet.xss">
+      <DependentUpon>NorthwindDataSet.xsd</DependentUpon>
+    </None>
     <None Include="NorthwindStoredProcs.xsc">
       <DependentUpon>NorthwindStoredProcs.xsd</DependentUpon>
     </None>

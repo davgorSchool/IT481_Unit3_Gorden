@@ -7,3 +7,12 @@ C:\Users\davgo\source\repos\David_Gorden_Unit2_IT481\obj\Debug\David_Gorden_Unit
 C:\Users\davgo\source\repos\David_Gorden_Unit2_IT481\obj\Debug\David_Gorden_Unit2_IT481.csproj.GenerateResource.cache
 C:\Users\davgo\source\repos\David_Gorden_Unit2_IT481\obj\Debug\David_Gorden_Unit2_IT481.exe
 C:\Users\davgo\source\repos\David_Gorden_Unit2_IT481\obj\Debug\David_Gorden_Unit2_IT481.pdb
+F:\ArtistAlpha\IT481_Unit3_Gorden\bin\Debug\David_Gorden_Unit2_IT481.exe.config
+F:\ArtistAlpha\IT481_Unit3_Gorden\bin\Debug\David_Gorden_Unit2_IT481.exe
+F:\ArtistAlpha\IT481_Unit3_Gorden\bin\Debug\David_Gorden_Unit2_IT481.pdb
+F:\ArtistAlpha\IT481_Unit3_Gorden\obj\Debug\David_Gorden_Unit2_IT481.csprojAssemblyReference.cache
+F:\ArtistAlpha\IT481_Unit3_Gorden\obj\Debug\David_Gorden_Unit2_IT481.Form1.resources
+F:\ArtistAlpha\IT481_Unit3_Gorden\obj\Debug\David_Gorden_Unit2_IT481.Properties.Resources.resources
+F:\ArtistAlpha\IT481_Unit3_Gorden\obj\Debug\David_Gorden_Unit2_IT481.csproj.GenerateResource.cache
+F:\ArtistAlpha\IT481_Unit3_Gorden\obj\Debug\David_Gorden_Unit2_IT481.exe
+F:\ArtistAlpha\IT481_Unit3_Gorden\obj\Debug\David_Gorden_Unit2_IT481.pdb
